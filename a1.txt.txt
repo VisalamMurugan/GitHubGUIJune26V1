@@ -1,1 +1,1 @@
-This is Gitgui program
+This is Gitgui program - Feature1 is also added
